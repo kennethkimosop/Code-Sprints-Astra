@@ -6,3 +6,7 @@
 | **Challenge** | **grading_students.py** |
 | **Total Points** | **10** |
 
+### kenneth - 2025-05-11 08:13:48
+| **Challenge** | **angry_professor.py** |
+| **Total Points** | **10** |
+
